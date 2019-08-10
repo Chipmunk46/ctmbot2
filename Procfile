@@ -1,1 +1,1 @@
-worker: java -jar target/Munkbot-Ultimate.jar
+worker: java -jar target/munkbotultimate.jar
